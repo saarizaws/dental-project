@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: black; */
+}
+.container1{
+    display: flex;
+    height: 136.6px;
+    width: 819.6px;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
+.container1_1{
+    display: flex;
+    height: 32.55px;
+    width: 273.2px;
+    align-items: center;
+    justify-content: center;
+}
+.container1_2{
+    display: flex;
+    height: 32.55px;
+    width: 273.2px;
+    align-items: center;
+    justify-content: center;
+}
+.container2{
+    display: flex;
+    height: 136.6px;
+    width: 819.6px;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
+.container2_1{
+    display: flex;
+    height: 32.55px;
+    width: 273.2px;
+    align-items: center;
+    justify-content: center;
+}
+.container2_2{
+    display: flex;
+    height: 32.55px;
+    width: 273.2px;
+    align-items: center;
+    justify-content: center;
+}
+.toptooth{
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: bottom;
+    height: 70px;
+    width: 70px;
+}
+.tooth{
+    background-repeat: no-repeat;
+    background-size:contain;
+    height: 90px;
+    width: 70px;
+}
+#icon1{
+    position: relative;
+    top: 58px;
+    left: 13px;
+}
+.xline{
+    height: 2px;
+    width: 600px;
+    margin-left: 110px;
+    background-color: rgb(70, 72, 199);
+}
+.vline{
+    height: 100px;
+    width: 2px;
+    /* margin-top: 100px; */
+    /* position:relative;
+    bottom: 0px; */
+    background-color: rgb(70, 72, 199);
+}
+.TL1{
+    background-image: url(./Assets/TL1.png);
+}
+.TL2{
+    background-image: url(./Assets/TL2.png);
+}
+.TL3{
+    background-image: url(./Assets/TL3.png);
+}
+.TL4{
+    background-image: url(./Assets/TL4.png);
+}
+.TL5{
+    background-image: url(./Assets/TL5.png);
+}
+.TL6{
+    background-image: url(./Assets/TL6.png);
+}
+.TL7{
+    background-image: url(./Assets/TL7.png);
+}
+.TL8{
+    background-image: url(./Assets/TL8.png);
+}
+
+.TR1{
+    background-image: url(./Assets/TR1.png);
+}
+.TR2{
+    background-image: url(./Assets/TR2.png);
+}
+.TR3{
+    background-image: url(./Assets/TR3.png);
+}
+.TR4{
+    background-image: url(./Assets/TR4.png);
+}
+.TR5{
+    background-image: url(./Assets/TR5.png);
+}
+.TR6{
+    background-image: url(./Assets/TR6.png);
+}
+.TR7{
+    background-image: url(./Assets/TR7.png);
+}
+.TR8{
+    background-image: url(./Assets/TR8.png);
+}
+
+
+.BR1{
+    background-image: url(./Assets/BR1.png);
+}
+.BR2{
+    background-image: url(./Assets/BR2.png);
+}
+.BR3{
+    background-image: url(./Assets/BR3.png);
+}
+.BR4{
+    background-image: url(./Assets/BR4.png);
+}
+.BR5{
+    background-image: url(./Assets/BR5.png);
+}
+.BR6{
+    background-image: url(./Assets/BR6.png);
+}
+.BR7{
+    background-image: url(./Assets/BR7.png);
+}
+.BR8{
+    background-image: url(./Assets/BR8.png);
+}
+
+.BL1{
+    background-image: url(./Assets/BL1.png);
+}
+.BL2{
+    background-image: url(./Assets/BL2.png);
+}
+.BL3{
+    background-image: url(./Assets/BL3.png);
+}
+.BL4{
+    background-image: url(./Assets/BL4.png);
+}
+.BL5{
+    background-image: url(./Assets/BL5.png);
+}
+.BL6{
+    background-image: url(./Assets/BL6.png);
+}
+.BL7{
+    background-image: url(./Assets/BL7.png);
+}
+.BL8{
+    background-image: url(./Assets/BL8.png);
+}
